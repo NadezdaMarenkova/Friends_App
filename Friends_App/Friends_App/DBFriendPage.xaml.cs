@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-
+//test
 namespace Friends_App
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
